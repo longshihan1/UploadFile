@@ -20,8 +20,6 @@ public class GsonUtils {
         return res;
     }
 
-
-
     public static Gson getGson(){
         return gson;
     }
